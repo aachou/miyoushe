@@ -2,6 +2,14 @@
 name = "miyoushe"
 version = "0.1.0"
 edition = "2024"
+description = "爬取米游社（miyoushe.com）用户主页所有帖子中图片的命令行工具"
+license = "MIT"
+repository = "https://github.com/aachou/miyoushe"
+homepage = "https://github.com/aachou/miyoushe"
+documentation = "https://docs.rs/miyoushe"
+readme = "README.md"
+keywords = ["miyoushe", "mihoyo", "scraper", "crawler", "images"]
+categories = ["command-line-utilities", "web-programming"]
 
 [dependencies]
 anyhow = "1"
